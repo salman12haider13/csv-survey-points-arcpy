@@ -57,7 +57,7 @@ csv-survey-points-arcpy/
 ├── .gitignore
 │
 ├── scripts/
-│   └── Haider_Lab10.py
+│   └── DMS_to_DD.py
 │
 ├── toolbox/
 │   └── CSV_to_points.atbx
