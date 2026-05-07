@@ -1,14 +1,13 @@
 # CSV Survey Points to ArcGIS Feature Class
 
-This project contains an ArcPy script tool that imports a CSV file containing survey locations with DMS coordinates, converts the coordinates into decimal degrees, and creates a point feature class in ArcGIS Pro.
+This project contains an ArcPy script tool that imports a CSV file containing survey locations with DMS coordinates, converts the coordinates into decimal degrees, and creates point feature class in ArcGIS Pro.
 
 The script also identifies survey locations where species presence is recorded and reports the three most northern, southern, eastern, and western presence points.
 
 ## Project Purpose
 
-The purpose of this script was to automate the process of converting survey coordinate data from a CSV file into GIS point data. The original CSV stores latitude and longitude values in DMS format, so the script converts them into decimal degrees before creating the final point feature class.
+The purpose of this script is to automate the process of converting survey coordinate data from CSV file into GIS point data. The original CSV stores latitude and longitude values in DMS format, so the script converts them into decimal degrees before creating the final point feature class.
 
-This was completed as part of my MGIS coursework at the University of Calgary.
 
 ## Main Tasks Performed
 
