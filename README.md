@@ -102,3 +102,5 @@ It also prints messages in the ArcGIS Pro geoprocessing window showing summary r
 ## Notes
 
 This project is mainly intended to demonstrate ArcPy scripting, coordinate conversion, CSV-to-feature-class processing, and basic spatial data automation in ArcGIS Pro.
+
+Last updated for portfolio showcase.
