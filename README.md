@@ -7,7 +7,7 @@ The script also identifies survey locations where species presence is recorded a
 ## Project Purpose
 
 The purpose of this script is to automate the process of converting survey coordinate data from CSV file into GIS point data. The original CSV stores latitude and longitude values in DMS format, so the script converts them into decimal degrees before creating the final point feature class.
-
+  
 
 ## Main Tasks Performed
 
